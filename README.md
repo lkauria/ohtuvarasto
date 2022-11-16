@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![GHA badge]https://github.com/lkauria/ohtuvarasto/workflows/CI/badge.svg
+![GHA badge](https://github.com/lkauria/ohtuvarasto/workflows/CI/badge.svg)
